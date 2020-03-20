@@ -1,0 +1,18 @@
+# hooks used for git commands
+githooks
+# static vendor file . use with nuxt.config.js script
+static/**
+# Coverage directory used by tools like istanbul
+coverage
+# Nuxt build
+.nuxt
+# Nuxt generate
+dist
+# Dependency directories
+node_modules/
+# nuxt.js build output
+.nuxt
+# Nuxt generate
+dist
+# Optional eslint cache
+.eslintcache
